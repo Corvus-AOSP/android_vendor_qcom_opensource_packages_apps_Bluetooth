@@ -198,6 +198,7 @@ public class Constants {
             "application/ogg",
             "application/vnd.android.package-archive",
             "text/comma-separated-values",
+            "*/*",
     };
 
     /** Where we store received files */
